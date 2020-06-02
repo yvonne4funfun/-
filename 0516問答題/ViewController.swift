@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     var rightAnswer = ""
     
     var questionsInfoemation = [Qnas(question: "最聰明的恐龍？", option:  ["傷齒龍","暴龍","翼手龍"], answer: "傷齒龍"),
-    Qnas(question: "最笨的恐龍？", option: ["傷齒龍","暴龍","劍龍"], answer: "劍龍"),Qnas(question: "最兇猛的恐龍是？", option: ["傷齒龍","暴龍","翼手龍"], answer: "暴龍"),Qnas(question: "最高的恐龍是？", option:  ["傷齒龍","劍龍","波塞東龍"], answer: "波塞東龍"),Qnas(question: "最大的恐龍是？", option: ["阿根廷龍","暴龍","翼手龍"], answer: "阿根廷龍"),Qnas(question: "第一個發現會挖洞的恐龍？", option:  ["傷齒龍","奔掘龍","翼手龍"], answer: "奔掘龍"),Qnas(question: "第一個發現有毒牙的恐龍？", option: ["中國鳥龍","暴龍","翼手龍"], answer: "中國鳥龍"),Qnas(question: "會照顧寶寶的龍？", option: ["傷齒龍","暴龍","慈母龍"], answer: "慈母龍"),Qnas(question: "會照顧寶寶的龍？", option: ["傷齒龍","暴龍","慈母龍"], answer: "慈母龍")]
+    Qnas(question: "最笨的恐龍？", option: ["傷齒龍","暴龍","劍龍"], answer: "劍龍"),Qnas(question: "最兇猛的恐龍是？", option: ["傷齒龍","暴龍","翼手龍"], answer: "暴龍"),Qnas(question: "最高的恐龍是？", option:  ["傷齒龍","劍龍","波塞東龍"], answer: "波塞東龍"),Qnas(question: "最大的恐龍是？", option: ["阿根廷龍","暴龍","翼手龍"], answer: "阿根廷龍"),Qnas(question: "第一個發現會挖洞的恐龍？", option:  ["傷齒龍","奔掘龍","翼手龍"], answer: "奔掘龍"),Qnas(question: "第一個發現有毒牙的恐龍？", option: ["中國鳥龍","暴龍","翼手龍"], answer: "中國鳥龍"),Qnas(question: "會照顧寶寶的龍？", option: ["傷齒龍","暴龍","慈母龍"], answer: "慈母龍")]
     
     
     
